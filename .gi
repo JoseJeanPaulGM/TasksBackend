@@ -1,0 +1,11 @@
+.vs/
+bin/
+obj/
+**/CopilotIndices/
+*.vsidx
+*.user
+*.suo
+*.sln.docstates
+appsettings.*.local.json
+Thumbs.db
+.DS_Store

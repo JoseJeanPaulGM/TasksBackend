@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gestor de Tareas", "Gestor de Tareas.csproj", "{5FA87F83-9A42-41B6-A01B-51D08489B046}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FA87F83-9A42-41B6-A01B-51D08489B046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA87F83-9A42-41B6-A01B-51D08489B046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA87F83-9A42-41B6-A01B-51D08489B046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA87F83-9A42-41B6-A01B-51D08489B046}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7FBF95F7-AA39-4AAE-9419-05D79B65654B}
+	EndGlobalSection
+EndGlobal
