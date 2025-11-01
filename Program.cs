@@ -37,12 +37,11 @@ builder.Services.AddCors(o =>
 {
     o.AddPolicy("ng", p => p
         .WithOrigins(
-            "http://localhost:4200"      // origen real de su frontend
-                                         // "https://localhost:4200"  // añádalo sólo si alguna vez sirve Angular en https
+            "http://localhost:4200"      
         )
         .AllowAnyHeader()
         .AllowAnyMethod()
-    // .AllowCredentials()          // sólo si usa cookies; para JWT en header no hace falta
+    // .AllowCredentials()          
     );
 });
 
